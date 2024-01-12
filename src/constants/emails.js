@@ -1,5 +1,8 @@
-const emails = []
-'spadeys3@gmail.com'
+const emails = [
+
+    'spadeys3@gmail.com'
+]
+
 module.exports = {
     emails
 }
