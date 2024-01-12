@@ -1,4 +1,4 @@
-const owner = "YourUsername"
+const owner = "sears_dot_com"
 const {Vec3} = require("vec3");
 const movement = require("mineflayer-movement")
 
