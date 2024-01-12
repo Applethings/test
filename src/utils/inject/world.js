@@ -38,8 +38,8 @@ function inject(bot) {
     })
 
     bot.on('messagestr', (msg) => {
-        if (msg.includes("YourUsername has invited you to join their party!")) {
-            bot.chat('/p accept YourUsername')
+        if (msg.includes("sears_dot_com has invited you to join their party!")) {
+            bot.chat('/p accept sears_dot_com')
         }
     })
 
