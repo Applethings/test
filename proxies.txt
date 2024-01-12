@@ -1,1 +1,1 @@
-mc.hypixel.net:25565:sears_dot_com:super*1girl
+mc.hypixel.net:25565:sears_dot_com:password
