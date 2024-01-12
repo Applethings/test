@@ -1,6 +1,6 @@
 const emails = [
 
-    'spadeys3@gmail.com'
+    'lolacanclimb@gmail.com'
 ]
 
 module.exports = {
