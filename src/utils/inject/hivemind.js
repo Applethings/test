@@ -4,7 +4,7 @@ const {sleep} = require("../time");
 const {Vec3} = require("vec3");
 const {log} = require("../log");
 const partyChatRegex = /Party > (?:\[.*] )?(.*): (.*)/
-const owner = "YourUsername"
+const owner = "sears_dot_com"
 const valuables = new Set(["cactus", "minecart", "leather_leggings", "leather_helmet", "golden_sword"])
 let isTrading = false
 let actionId, windowId
